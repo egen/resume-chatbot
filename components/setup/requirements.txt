@@ -4,4 +4,4 @@ unstructured==0.10.8
 pdf2image==1.16.3
 pytesseract==0.3.10
 pdfminer.six==20221105
-opencv-python==4.8.0.76
+opencv-python==4.8.1.78
