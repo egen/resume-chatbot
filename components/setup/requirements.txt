@@ -1,5 +1,5 @@
 google-cloud-aiplatform==1.31.1
-langchain==0.0.276
+langchain==0.3.11
 unstructured==0.10.8
 pdf2image==1.16.3
 pytesseract==0.3.10
